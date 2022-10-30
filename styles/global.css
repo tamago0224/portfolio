@@ -1,0 +1,14 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	font-family: "M PLUS 1", sans-serif;
+}
+
+a {
+	color: black;
+	text-decoration: underline dashed;
+	text-decoration-style: dashed;
+	text-decoration-color: gray;
+}
